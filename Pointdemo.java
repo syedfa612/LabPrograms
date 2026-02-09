@@ -2,10 +2,6 @@
 Illustrate  about  defining  a  class  named  ‘Point’  with  attributes  such  as  ‘xcoordinate’  and ‘ycoordinate’ .  Include  a  method  such  as  ‘getPoint()’ to  initialize  values  for  the  above attributes by getting input from driver code. Include another method ‘distancePoints()’ to find the distance between two Point objects using Euclidean Distance Formula.
 /*
 
-
-
-
-
 import java.util.*;
 
 class Point {
@@ -58,4 +54,5 @@ public class Pointdemo {
 
    
   
+
   
